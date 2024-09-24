@@ -1,7 +1,7 @@
 {
   "SaveName": "Merchantalismo",
-  "EpochTime": 1727221527,
-  "Date": "9/24/2024 4:45:27 PM",
+  "EpochTime": 1727221825,
+  "Date": "9/24/2024 4:50:25 PM",
   "VersionNumber": "v13.3",
   "GameMode": "None",
   "Tags": [],
@@ -13,7 +13,7 @@
   "TabStates": {
     "0": {
       "title": "Rules",
-      "body": "",
+      "body": "RESOURCES (spending units - military, research, culture)\r\n\r\nResources can be spent for:\r\n\r\nCulture - advance standing with any space\r\nTrade - exchange resources with spaces adjacent to spaces you control based on cultural level or trade between players freely\r\nRecruit\r\nMilitary units - spend military resources in the military phase\r\nResearch units - spend research resources in the investment phase\r\nMove Troops (in the military phase)\r\nFund Research - spend research resources to increase technology track up to the number of researchers you have\r\nVictory Points - spend 1 of each resource type per tile you control to gain 1 victory point\r\n\r\nTILE\r\nProduces at most two resource types, one more than the other\r\nPlayers determine the production allocation of a tile to produce corresponding amounts of resources (x tech multiplier)\r\nNeutral tiles always produce at the middle allocation and use the level of advancement multiplier\r\n\r\nROUND\r\n\r\nPay - put resources in bank equal to upkeep costs of military and research units\r\nIf not enough resources to pay costs, layoff ½ corresponding units (rounded up) per deficit\r\nMove one space on “egalitarian” track\r\nMilitary Phase - spend resources on military actions until all players pass\r\nHarvest - collect resources based on control (move resources from board to player mat)\r\nInvestment Phase - spend resources on investment actions until all players pass\r\nResolve Military - military units occupying same spaces enter combat\r\nProduction - place resources on board\r\n\r\nMILITARY PHASE\r\n\r\nPlayers take military actions one at a time until everyone passes\r\nNeutral territories always have 3 units\r\n\r\nMilitary Actions\r\n\r\nMove - spend 1 military resource to move up to 3 troops from 1 tile to an adjacent tile\r\nCannot move out of a space containing opposing units greater than or equal to yours\r\nRecruit - spend 1 military resource to add one military unit to a space you control\r\n\r\nCOMBAT\r\nRoll 1d6 for each military unit in an encounter\r\nThe side with the higher total eliminates opposing units\r\nIf multiple factions occupy the same tile during the military resolution phase, players determine target in turn order until one faction occupies each tile (excluding allies occupying friendly neutral spaces)\r\nNeutral nations must always be the last target\r\n\r\nINVESTMENT PHASE\r\n\r\nTake investment actions one at a time until everyone passes\r\n\r\nInvestment Actions\r\nSpend\r\nTrade\r\nWith adjacent neutral space based on cultural level\r\nWith any player at any rate\r\n",
       "color": "Grey",
       "visibleColor": {
         "r": 0.5,
